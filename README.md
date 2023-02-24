@@ -7,6 +7,7 @@ I am nouhidev.
 
 🔹 Best way to reach me is on Discord
   
+  
 ![](https://komarev.com/ghpvc/?username=NouhiDev&color=red&style=for-the-badge)
   
 </div>
