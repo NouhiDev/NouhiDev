@@ -5,6 +5,8 @@
 I am nouhidev.
 
 🔹 I do software development & simulations
+  
+🔹 Currently working on DaVinci: A discord bot that uses OpenAI's API to generate responses
 
 🔹 Best way to reach me is on Discord
   
