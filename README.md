@@ -4,7 +4,7 @@
 
 I am nouhidev.
 
-🔹 I do software development & simulations
+🔹 I do software/game development & simulations
 
 🔹 Best way to reach me is on Discord
   
